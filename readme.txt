@@ -1,5 +1,5 @@
 === WooCommerce ePay.ph Plugin ===
-Contributors: dennis.paler
+Contributors: paolo.abadesco
 Tags: payment, epay, epayph woocommerce
 Requires at least 3.0.1
 Tested up to 4.3
